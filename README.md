@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Sonu 👋
 
-<!--
-**sonukumar-dev04/sonukumar-dev04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer building fast, responsive web apps with React, Next.js, and the MERN stack.
 
-Here are some ideas to get you started:
+- 🔭 Currently building projects with Next.js, TypeScript, and Tailwind CSS
+- 🌱 Learning: TypeScript, advanced frontend architecture
+- 💼 Open to Frontend Developer / Intern roles
+- 🌐 Portfolio: [sonuk-dev.vercel.app](https://sonuk-dev.vercel.app/)
+- 📫 Reach me: nsonukumar39630@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:**
+
+React · Next.js · JavaScript · TypeScript · Tailwind CSS · Node.js · Express · MongoDB
+
+**Featured Projects:**
+
+- 🍳 [Chef AI](https://chef-ai-lilac.vercel.app) — AI-powered recipe app (Next.js, Gemini AI)
+- 🌐 [Pronet](https://mern-social-network.vercel.app) — Social platform with real-time chat (MERN, Socket.io)
+- 🛒 [Cartify](https://cartify-inky-omega.vercel.app) — E-commerce frontend (React, Supabase)
+- 🏡 [TripTide](https://trip-tide-project.onrender.com) — Airbnb-inspired backend (Node.js, Express, MongoDB)
