@@ -2,7 +2,7 @@
 
 Frontend Developer building fast, responsive web apps with React, Next.js, and the MERN stack.
 
-- 🔭 Currently building projects with Next.js, TypeScript, and Tailwind CSS
+- 🔭 Currently building projects with React.js, Next.js, JavaScript, and Tailwind CSS
 - 🌱 Learning: TypeScript, advanced frontend architecture
 - 💼 Open to Frontend Developer / Intern roles
 - 🌐 Portfolio: [sonuk-dev.vercel.app](https://sonuk-dev.vercel.app/)
