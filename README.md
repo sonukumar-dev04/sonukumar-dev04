@@ -1,125 +1,106 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 
 <h3 align="center">
-Frontend Developer passionate about building modern, responsive, and user-friendly web applications with React.js and Next.js.
+Frontend Developer passionate about building modern, responsive, and scalable web applications using React.js, Next.js, and the MERN Stack.
 </h3>
 
 <p align="center">
-<a href="https://sonuk-dev.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/sonu-kumar-dev04/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:nsonukumar39630@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
+  <a href="https://sonuk-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sonu-kumar-dev04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nsonukumar39630@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💻 Frontend Developer focused on **React.js, Next.js, JavaScript, and Tailwind CSS**
-
-- 🚀 Building full-stack applications using the **MERN Stack**
-
-- 🌱 Currently improving my skills in **TypeScript** and scalable frontend architecture
-
-- 🎯 Interested in creating responsive, accessible, and high-performance web applications
-
-- 💼 Open to **Frontend Developer** and **Software Developer** opportunities
+- 💻 Frontend Developer specializing in **React.js, Next.js, JavaScript, and Tailwind CSS**
+- 🚀 Building full-stack web applications using the **MERN Stack**
+- 🌱 Currently expanding my frontend expertise with **TypeScript** and scalable application architecture
+- 🎯 Passionate about creating responsive, accessible, and high-performance user experiences
+- 💼 Open to **Frontend Developer**, **Software Developer**, and **Internship** opportunities
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🍳 ChefAI
-AI-powered recipe generator with authentication and intelligent recipe suggestions.
+An AI-powered recipe generator that helps users discover recipes based on available ingredients with authentication and an intuitive user interface.
 
-**Tech Stack**
-
-React • Node.js • Express • MongoDB
+**Tech Stack:** React • Node.js • Express • MongoDB
 
 ---
 
 ### 🌐 MERN Social Network
+A full-stack social media platform featuring authentication, posts, comments, likes, image uploads, friend connections, and real-time messaging.
 
-A complete social media application with authentication, posts, comments, likes, image uploads, and real-time messaging.
-
-**Tech Stack**
-
-React • Redux Toolkit • Express • MongoDB • Socket.io
+**Tech Stack:** React • Redux Toolkit • Express • MongoDB • Socket.io
 
 ---
 
 ### 🛒 Cartify
+A modern e-commerce application with authentication, responsive UI, shopping experience, and Supabase integration.
 
-Modern e-commerce frontend with responsive UI and Supabase authentication.
-
-**Tech Stack**
-
-React • Tailwind CSS • Supabase
+**Tech Stack:** React • Tailwind CSS • Supabase
 
 ---
 
 ### 🏡 Airbnb Clone
+A full-stack booking platform featuring user authentication, property listings, image uploads, search functionality, and responsive design.
 
-A booking platform featuring authentication, property listings, image uploads, and responsive design.
-
-**Tech Stack**
-
-Node.js • Express • MongoDB • EJS
+**Tech Stack:** Node.js • Express • MongoDB • EJS
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🤝 Let's Connect
 
-<p align="center">
+<p align="left">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonukumar-dev04&show_icons=true&theme=github_dark&hide_border=true"/>
+📧 **Email:**  
+<a href="mailto:nsonukumar39630@gmail.com">nsonukumar39630@gmail.com</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumar-dev04&layout=compact&theme=github_dark&hide_border=true"/>
+🌐 **Portfolio:**  
+<a href="https://sonuk-dev.vercel.app">sonuk-dev.vercel.app</a>
+
+💼 **LinkedIn:**  
+<a href="https://www.linkedin.com/in/sonu-kumar-dev04/">linkedin.com/in/sonu-kumar-dev04</a>
 
 </p>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-📧 **Email**
+### ⭐ Thanks for visiting my profile!
 
-nsonukumar39630@gmail.com
+Feel free to explore my repositories and connect with me. I'm always excited to learn, collaborate, and build impactful web applications.
 
-🌐 **Portfolio**
-
-https://sonuk-dev.vercel.app
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/sonu-kumar-dev04/
+</div>
