@@ -4,18 +4,6 @@
 Frontend Developer passionate about building modern, responsive, and scalable web applications using React.js, Next.js, and the MERN Stack.
 </h3>
 
-<p align="center">
-  <a href="https://sonuk-dev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sonu-kumar-dev04/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nsonukumar39630@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 ---
 
 # 👨‍💻 About Me
